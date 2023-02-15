@@ -1,0 +1,23 @@
+3189;Rexona Roll-on;110.75;435;Essentials;1
+8207;Colgate Toothpaste;90.99;14;Essentials;1
+4115;Rubik's Cube;200.99;269;Toys;1
+8309;Soap;25.80;432;Essentials;1
+1539;Trash Bag;37.99;576;Essentials;1
+5312;Teddy Bear;298.88;63;Toys;1
+2354;Oral-B Toothbrush;80.90;421;Essentials;1
+4578;Piattos;32.50;142;Food;1
+2795;Kite;245.99;47;Toys;1
+4576;H&M T-Shirt;950.80;968;Clothing;1
+1111;Chippy;24.75;957;Food;1
+1234;Cracklings;15.75;883;Food;1
+4569;Nova;34.65;465;Food;1
+8786;Fita;80.90;644;Food;1
+8976;RC Car;450.50;0;Toys;1
+9013;Barbie;150;181;Toys;1
+8880;Levi's Pants;1500;856;Clothing;1
+5443;Uniqlo Polo;799.80;226;Clothing;1
+5912;Dunlop Socks;190.95;948;Clothing;1
+7962;Nike Shorts;1199.90;621;Clothing;1
+8753;Oreo;95.90;800;Food;0
+7816;Salt;20.50;965;Essentials;0
+4397;Surf Powder;5.90;0;Essentials;1

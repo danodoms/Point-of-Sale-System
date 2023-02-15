@@ -1,0 +1,40 @@
+Dec 23, 2022;Customer;Colgate Toothpaste × 4;Oral-B Toothbrush × 3;Kite × 6;Uniqlo Polo × 1;Rubik's Cube × 3;RC Car × 2;Levi's Pants × 3;Teddy Bear × 3;Dunlop Socks × 1;Trash Bag × 1;Barbie × 4;10611.95;dhannica
+Dec 23, 2022;Customer;Levi's Pants × 2;Dunlop Socks × 1;3190.95;dhannica
+Dec 24, 2022;Customer;Kite × 2;491.98;dhannica
+Dec 24, 2022;Customer;Kite × 4;RC Car × 1;1434.46;aliza
+Dec 25, 2022;Customer;Fita × 4;Rubik's Cube × 2;725.58;aliza
+Dec 25, 2022;Customer;RC Car × 4;Uniqlo Polo × 1;2601.8;aliza
+Dec 26, 2022;Customer;Chippy × 4;Fita × 1;179.9;harlene
+Dec 27, 2022;Customer;Colgate Toothpaste × 5;Rexona Roll-on × 1;565.7;harlene
+Dec 28, 2022;Customer;Piattos × 2;Cracklings × 4;128.0;harlene
+Dec 29, 2022;Customer;Soap × 5;Levi's Pants × 1;1629.0;harlene
+Dec 29, 2022;Customer;Colgate Toothpaste × 1;Teddy Bear × 5;RC Car × 3;H&M T-Shirt × 2;4838.49;harlene
+Dec 29, 2022;Customer;Piattos × 3;Rubik's Cube × 3;700.47;dhannica
+Dec 30, 2022;Customer;Piattos × 3;Levi's Pants × 2;Teddy Bear × 2;RC Car × 2;Dunlop Socks × 2;Uniqlo Polo × 1;H&M T-Shirt × 2;7679.56;dhannica
+Dec 31, 2022;Customer;Colgate Toothpaste × 9;Soap × 2;Oral-B Toothbrush × 2;Chippy × 3;Dunlop Socks × 5;Nova × 1;H&M T-Shirt × 5;RC Car × 3;8201.46;dhannica
+Dec 31, 2022;Customer;Trash Bag × 1;37.99;dhannica
+Dec 31, 2022;Customer;RC Car × 3;Soap × 1;1377.3;dhannica
+Dec 31, 2022;Customer;RC Car × 3;Uniqlo Polo × 2;Trash Bag × 2;Levi's Pants × 7;13527.08;dhannica
+Jan 01, 2023;Customer;Fita × 5;Uniqlo Polo × 5;Rubik's Cube × 3;Trash Bag × 2;5082.45;dhannica
+Jan 02, 2023;Customer;Chippy × 1;24.75;dhannica
+Jan 02, 2023;Customer;Piattos × 2;65.0;dhannica
+Jan 03, 2023;Customer;Piattos × 1;32.5;dhannica
+Jan 04, 2023;Customer;Soap × 6;154.8;aliza
+Jan 04, 2023;Customer;Cracklings × 76;Fita × 19;2734.1;aliza
+Jan 05, 2023;Customer;Cracklings × 1;15.75;harlene
+Jan 05, 2023;Customer;Chippy × 1;24.75;dhannica
+Jan 06, 2023;Customer;Levi's Pants × 8;12000.0;dhannica
+Jan 06, 2023;Customer;H&M T-Shirt × 4;3803.2;harlene
+Jan 06, 2023;Customer;Soap × 7;180.6;harlene
+Jan 06, 2023;Customer;Fita × 3;Oral-B Toothbrush × 3;Dunlop Socks × 2;Nova × 13;Barbie × 2;Soap × 6;1772.55;harlene
+Jan 06, 2023;Customer;Teddy Bear × 6;Fita × 3;Colgate Toothpaste × 7;Trash Bag × 6;Rexona Roll-on × 10;4008.35;harlene
+Jan 06, 2023;Customer;Nike Shorts × 14;Dunlop Socks × 9;Uniqlo Polo × 6;Levi's Pants × 7;33815.95;harlene
+Jan 06, 2023;Customer;Barbie × 3;RC Car × 2;H&M T-Shirt × 1;Kite × 4;3285.76;harlene
+Jan 06, 2023;Customer;Cracklings × 6;Barbie × 4;Trash Bag × 6;Nike Shorts × 4;Soap × 5;Colgate Toothpaste × 4;Fita × 3;Piattos × 3;Chippy × 3;6629.45;harlene
+Jan 06, 2023;Customer;Cracklings × 2;31.5;harlene
+Jan 06, 2023;Customer;Oral-B Toothbrush × 4;Fita × 4;Levi's Pants × 3;5147.2;harlene
+Jan 06, 2023;Customer;Trash Bag × 5;Levi's Pants × 2;Rexona Roll-on × 3;3522.2;harlene
+Jan 06, 2023;Customer;Oral-B Toothbrush × 6;Chippy × 4;Kite × 4;Rubik's Cube × 1;1769.35;harlene
+Jan 06, 2023;Customer;Colgate Toothpaste × 2;Soap × 1;207.78;harlene
+Jan 06, 2023;Customer;Nova × 3;Chippy × 4;Cracklings × 2;Piattos × 1;266.95;harlene
+Jan 06, 2023;Customer;Rubik's Cube × 3;602.97;harlene

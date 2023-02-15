@@ -1,0 +1,15 @@
+Dec 23, 2022;Levi's Pants;5;Dunlop Socks;2;Colgate Toothpaste;4;Oral-B Toothbrush;3;Kite;6;Uniqlo Polo;1;Rubik's Cube;3;RC Car;2;Teddy Bear;3;Trash Bag;1;Barbie;4
+Dec 24, 2022;Kite;6;RC Car;1
+Dec 25, 2022;Fita;4;Rubik's Cube;2;RC Car;4;Uniqlo Polo;1
+Dec 26, 2022;Chippy;4;Fita;1
+Dec 27, 2022;Colgate Toothpaste;5;Rexona Roll-on;1
+Dec 28, 2022;Piattos;2;Cracklings;4
+Dec 29, 2022;Soap;5;Levi's Pants;1;Colgate Toothpaste;1;Teddy Bear;5;RC Car;3;H&M T-Shirt;2;Piattos;3;Rubik's Cube;3
+Dec 30, 2022;Piattos;3;Levi's Pants;2;Teddy Bear;2;RC Car;2;Dunlop Socks;2;Uniqlo Polo;1;H&M T-Shirt;2
+Dec 31, 2022;RC Car;9;Trash Bag;3;Soap;3;Colgate Toothpaste;9;Oral-B Toothbrush;2;Chippy;3;Dunlop Socks;5;Nova;1;H&M T-Shirt;5;Uniqlo Polo;2;Levi's Pants;7
+Jan 01, 2023;Fita;5;Uniqlo Polo;5;Rubik's Cube;3;Trash Bag;2
+Jan 02, 2023;Chippy;1;Piattos;2
+Jan 03, 2023;Piattos;1
+Jan 04, 2023;Soap;6;Cracklings;76;Fita;19
+Jan 05, 2023;Cracklings;1;Chippy;1
+Jan 06, 2023;Rubik's Cube;4;Chippy;11;Cracklings;10;Nova;16;Piattos;4;Soap;19;Colgate Toothpaste;13;Oral-B Toothbrush;13;Kite;8;Levi's Pants;20;Trash Bag;17;Rexona Roll-on;13;Fita;13;Barbie;9;Nike Shorts;18;H&M T-Shirt;5;Dunlop Socks;11;Teddy Bear;6;Uniqlo Polo;6;RC Car;2

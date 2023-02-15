@@ -1,0 +1,27 @@
+Dec 25, 2022;Customer;Sponge × 13;Axe × 2;2003.0;user
+Dec 25, 2022;Customer;Sponge × 60;Plastic × 2;2003.0;user
+Dec 30, 2022;Customer;Sponge × 1;14.0;user
+Dec 30, 2022;Customer;Trash Bag × 1;37.0;user
+Dec 31, 2022;Customer;Trash Bag × 1;37.0;user
+Dec 31, 2022;Customer;Trash Bag × 1;37.0;user
+Dec 31, 2022;Customer;Rubik's Cube × 4;Soap × 3;881.36;user
+Dec 31, 2022;Customer;Soap × 2;51.6;user
+Jan 01, 2023;Customer;Trash Bag × 5;Rubik's Cube × 3;792.92;user
+Jan 01, 2023;Customer;Rubik's Cube × 3;602.97;user
+Jan 01, 2023;Customer;Rubik's Cube × 4;803.96;user
+Jan 02, 2023;Customer;Rubik's Cube × 3;Soap × 3;680.37;user
+Jan 02, 2023;Customer;Soap × 2;51.6;user
+Jan 02, 2023;Customer;Rubik's Cube × 1;200.99;user
+Jan 02, 2023;Customer;Rubik's Cube × 2;401.98;user
+Jan 02, 2023;Customer;Soap × 8;206.4;dhannica
+Jan 03, 2023;Customer;Soap × 5;Colgate Toothpaste × 2;Trash Bag × 2;386.96;user
+Jan 03, 2023;Customer;Rubik's Cube × 12;Rexona Roll-on × 4;Sponge × 5;Soap × 4;3031.08;user
+Jan 03, 2023;Customer;Soap × 3;77.4;user
+Jan 03, 2023;Customer;Rubik's Cube × 8;1607.92;user
+Jan 03, 2023;Customer;Soap × 4;103.2;user
+Jan 03, 2023;Customer;Sponge × 3;43.8;dhannica
+Jan 03, 2023;Customer;Soap × 2;51.6;dhannica
+Jan 03, 2023;Customer;Rubik's Cube × 4;803.96;dhannica
+Jan 03, 2023;Customer;Sponge × 3;Rubik's Cube × 1;Colgate Toothpaste × 4;608.75;dhannica
+Jan 03, 2023;Customer;Rexona Roll-on × 3;Colgate Toothpaste × 2;Toothbrush × 6;999.63;dhannica
+Jan 03, 2023;Customer;Rexona Roll-on × 6;Soap × 3;741.9;dhannica
